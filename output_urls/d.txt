@@ -1,0 +1,2573 @@
+<body id="ctl00_body1">
+ <form action="https://www.travelweekly.com/Content/GenericPage.aspx?ptgpk=52824163&amp;requrl=/Hotels/Flagstaff-AZ/Days-Hotel-by-Wyndham-Flagstaff-p52824163" id="aspnetForm" method="post">
+  <div class="aspNetHidden">
+   <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="AvGaVxe+Ua/yRaKSnGXqBxWOs685U/KiAjKL5ZZIq5WLakK0oNpSRR1/mXaAZ60QiMv10RIQkZ7kJwBRw8LLKuFmSpBiPdWTbwiM4fsebOIhwE80J7xGbf90txGP/RFp6wEvpOlLUCHfYaFKm99MXFsiTFksZ/AHyybfiDLEx3IgGlf/QgNzwu0JZBu3MOcaHKR7OiQ8z6MS4KAaYPX2WUDArnO0UFhR2z4dg4DKN8+jVbOJS/YvaHC1s5C8yO751rsfojqniwpM93wpk04inIkQU0ROvcZN6nGsogIajOx5xV7UO4hwJr7vhdo77QkB26k9Jw=="/>
+  </div>
+  <script>
+   function initNTGOTags(){
+console.log('olytics fire');
+olytics.fire({behaviorId:'2672C9123356A8B',category:'Hotels',hotelsearch:'Flagstaff Arizona United States North America,Days Hotel by Wyndham Flagstaff,First Hotels,Hotel Search,0014'
+});
+
+}
+  </script>
+  <script src="//ai.northstartravelmedia.com/track/?oid=a096c672423f4f0b959219cb6a289904">
+  </script>
+  <script>
+   var _omlfp='';
+  </script>
+  <script>
+   function setMLGA4() {
+gtag('set', 'user_properties', {
+'Bombora_Domain': _ml.us.dm,
+'Bombora_Industry': _ml.us.ind,
+'Bombora_Revenue': _ml.us.cr,
+'Bombora_Size': _ml.us.cs,
+'Bombora_B2B_Interest': (_ml.us.tp && _ml.us.tp.length > 0) ? _ml.us.tp[0] : null,
+'Bombora_Interest_Group': (_ml.us.pc && _ml.us.pc.length > 0) ? _ml.us.pc[0] : null,
+'Bombora_Install_Data': (_ml.us.ins && _ml.us.ins.length > 0) ? _ml.us.ins[0] : null,
+'Bombora_Seniority': _ml.us.sn,
+'Bombora_Decision_Maker': _ml.us.dcm,
+'Bombora_Job_Function': (_ml.us.fa && _ml.us.fa.length > 0) ? _ml.us.fa[0] : null,
+'Bombora_Prof_Group': (_ml.us.pg && _ml.us.pg.length > 0) ? _ml.us.pg[0] : null
+});
+ }
+  </script>
+  <!-- GA4 Script Start -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XHWMVYD4H6">
+  </script>
+  <script>
+   function getGACookieValue(name) {var val='';var cookieArr = document.cookie.split(';');for(var i = 0; i < cookieArr.length; i++) {var cookie = cookieArr[i].trim();if (cookie.indexOf(name + '=') == 0) {val= cookie.substring(name.length + 1);break;}}console.log('getGACookieValue (' + name + '):' + val);return val;}
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
+gtag('set', {'hotel_session_id': getGACookieValue('hotel_session_id')});
+gtag('config', 'G-XHWMVYD4H6', {
+'most_read':'007633 |  | PORTAL | 52824163',
+'page_key':'52824163',
+'main_type':'Hotels',
+'publisher':'Travel Weekly',
+'subsection':'PROFILE',
+'template':'Hotel Detail',
+'section':'HOTEL HOTEL',
+'topic':'NA',
+'subscription_type':'not subscribed',
+'adblocker':bIsAdblocked,
+'ad_set_section':ad_set_adsection,
+'ad_set_adpostid':ad_set_adpostid,'directory_region':'NA',
+'directory_country':'NA_US',
+'directory_state':'NA_US_AZ',
+'directory_city':'NA_US_AZ_FLAGSTAFF',
+'directory_type':'Hotel',
+'hotel_chain':'0014',
+'hotel_class':'Moderate First Class'});
+
+gtag('event', 'hotel_session_start', {});
+  </script>
+  <!-- GA4 Script End -->
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MKPP66');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MKPP66" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- BODY HEADER begin -->
+  <div class="container-fluid hide-full-map">
+   <div class="header-advert hidden-xs hidden-sm" id="div-gpt-ad-Top1" style="text-align:center;min-height:121px;">
+    <script>
+     renderAd('div-gpt-ad-Top1');
+    </script>
+   </div>
+   <div class="hidden-sm hidden-md hidden-lg hidden-xl" id="div-gpt-ad-mobile-Mobile-Top" style="clear: both; text-align:center;min-height:50px;margin-top:80px;">
+    <script>
+     renderAd('div-gpt-ad-mobile-Mobile-Top');
+    </script>
+   </div>
+  </div>
+  <div class="container content-wrapper">
+   <div id="div-gpt-ad-Flex">
+    <script>
+     renderAd('div-gpt-ad-Flex');
+    </script>
+   </div>
+   <div class="hidden-sm hidden-md hidden-lg hidden-xl" id="div-gpt-ad-mobile-Flex">
+    <script>
+     renderAd('div-gpt-ad-mobile-Flex');
+    </script>
+   </div>
+   <header class="header content-wrapper">
+    <div class="clearfix hidden-xs">
+     <div class="logo" style="padding-bottom:40px">
+      <a class="logo-img" href="/" title="Travel Weekly">
+       <img alt="Travel Weekly" class="logo-img" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/Site_Management/TRAVELWEEKLYLogo_Color/Travel-Weekly.svg?tr=h-54%2Cfo-auto" style="width: auto;height:76px;" title="Travel Weekly"/>
+      </a>
+      <a class="slogan" href="/" title="Travel Weekly">
+      </a>
+     </div>
+     <div class="advert">
+      <div id="div-gpt-ad-Top" style="min-height:90px;">
+       <script>
+        renderAd('div-gpt-ad-Top');
+       </script>
+      </div>
+     </div>
+    </div>
+    <nav class="navbar navbar-default" data-offset-top-target=".offset-container">
+     <div class="navbar-header">
+      <button class="navbar-toggle" data-toggle-nav="" type="button">
+       <span class="sr-only">
+        Toggle navigation
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+      </button>
+      <a class="visible-xs logo-img" href="/" title="Travel Weekly">
+       <img alt="Travel Weekly" class="logo-img" height="35" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/Site_Management/TRAVELWEEKLYLogo_Color/Travel-Weekly.svg?tr=h-54%2Cfo-auto" style="width: auto;" title="Travel Weekly" width="180"/>
+      </a>
+     </div>
+     <div class="navbar-collapse js-navbar-collapse">
+      <a class="logo-img" href="/" title="Travel Weekly">
+       <img alt="Travel Weekly" class="logo-img" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/Site_Management/TRAVELWEEKLYLogo_Color/Travel-Weekly.svg?tr=h-54%2Cfo-auto" title="Travel Weekly" width="100%"/>
+      </a>
+      <ul class="nav navbar-nav">
+       <li class="dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle" href="/Travel-News" role="button" title="News &amp; Featured Destinations">
+         News &amp; Featured Destinations
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <a class="overview" href="/Travel-News" title="Overview">
+           Overview
+          </a>
+          <ul class="row navbar-sub">
+           <li class="col-xs-12 col-sm-3">
+            <span class="nav-title">
+             Industry News
+            </span>
+            <ul class="links row" style="padding-left: 15px;">
+             <li>
+              <a href="/Travel-News/Airline-News/" title="Aviation">
+               Aviation
+              </a>
+             </li>
+             <li>
+              <a href="/Corporate-Travel" title="Corporate Travel">
+               Corporate Travel
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise-Travel/" title="Cruise">
+               Cruise
+              </a>
+             </li>
+             <li>
+              <a href="/Travel-News/Government/" title="Government Affairs">
+               Government Affairs
+              </a>
+             </li>
+             <li>
+              <a href="/Travel-News/Car-Rental-News/" title="Ground Transportation">
+               Ground Transportation
+              </a>
+             </li>
+             <li>
+              <a href="/Travel-News/Hotel-News/" title="Hotels">
+               Hotels
+              </a>
+             </li>
+             <li>
+              <a href="/Travel-News/Travel-Agent-Issues/" title="Retail">
+               Retail
+              </a>
+             </li>
+             <li>
+              <a href="/River-Cruising/" title="River Cruise">
+               River Cruise
+              </a>
+             </li>
+             <li>
+              <a href="/Travel-News/Tour-Operators/" title="Tours">
+               Tours
+              </a>
+             </li>
+             <li>
+              <a href="/Travel-News/Travel-Technology/" title="Travel Technology">
+               Travel Technology
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="col-xs-12 col-sm-3">
+            <span class="nav-title">
+             Destinations
+            </span>
+            <ul class="links row" style="padding-left: 15px;">
+             <li>
+              <a href="/Middle-East-Africa-Travel/" title="Africa / Middle East">
+               Africa / Middle East
+              </a>
+             </li>
+             <li>
+              <a href="/Asia-Travel" title="Asia / Pacific">
+               Asia / Pacific
+              </a>
+             </li>
+             <li>
+              <a href="/Caribbean-Travel" title="Caribbean">
+               Caribbean
+              </a>
+             </li>
+             <li>
+              <a href="/South-America-Travel" title="Central / South America">
+               Central / South America
+              </a>
+             </li>
+             <li>
+              <a href="/Europe-Travel" title="Europe">
+               Europe
+              </a>
+             </li>
+             <li>
+              <a href="/Hawaii-Travel" title="Hawaii">
+               Hawaii
+              </a>
+             </li>
+             <li>
+              <a href="/Mexico-Travel" title="Mexico">
+               Mexico
+              </a>
+             </li>
+             <li>
+              <a href="/North-America-Travel" title="USA / Canada">
+               USA / Canada
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="col-xs-12 col-sm-3">
+            <span class="nav-title">
+             Travel Specialities
+            </span>
+            <ul class="links row" style="padding-left: 15px;">
+             <li>
+              <a href="/adventure-travel" title="Adventure Travel">
+               Adventure Travel
+              </a>
+             </li>
+             <li>
+              <a href="/culinary-travel" title="Culinary Travel">
+               Culinary Travel
+              </a>
+             </li>
+             <li>
+              <a href="/family-travel" title="Family Travel">
+               Family Travel
+              </a>
+             </li>
+             <li>
+              <a href="/Las-Vegas-Travel" title="Las Vegas &amp; Gaming">
+               Las Vegas &amp; Gaming
+              </a>
+             </li>
+             <li>
+              <a href="/lgtbq-travel" title="LGBTQ+ Travel">
+               LGBTQ+ Travel
+              </a>
+             </li>
+             <li>
+              <a href="/Luxury-Travel" title="Luxury">
+               Luxury
+              </a>
+             </li>
+             <li>
+              <a href="/ski-travel" title="Ski &amp; Mountain Travel">
+               Ski &amp; Mountain Travel
+              </a>
+             </li>
+             <li>
+              <a href="/theme-parks" title="Theme Parks">
+               Theme Parks
+              </a>
+             </li>
+             <li>
+              <a href="/wedding-romance-travel" title="Wedding, Honeymoon &amp; Romance Travel">
+               Wedding, Honeymoon &amp; Romance Travel
+              </a>
+             </li>
+             <li>
+              <a href="/wellness-travel" title="Wellness/Spa Travel">
+               Wellness/Spa Travel
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="col-xs-12 col-sm-3">
+            <span class="nav-title">
+             Critical Topics
+            </span>
+            <ul class="links row" style="padding-left: 15px;">
+             <li>
+              <a href="/diversity" title="Race &amp; Diversity">
+               Race &amp; Diversity
+              </a>
+             </li>
+             <li>
+              <a href="/Sustainable-Travel" title="Sustainable Travel">
+               Sustainable Travel
+              </a>
+             </li>
+             <li>
+              <a href="/coronavirus" title="Covid's Impact">
+               Covid's Impact
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle" href="#" role="button" title="Our Voices">
+         Our Voices
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <ul class="row navbar-sub">
+           <li class="col-sm-3 col-md-2">
+            <span class="nav-title-spacer">
+            </span>
+            <ul class="links">
+             <li>
+              <a href="/ViewPoints" title="Columnists">
+               Columnists
+              </a>
+             </li>
+             <li>
+              <a href="/ForumsLetters" title="Forum">
+               Forum
+              </a>
+             </li>
+             <li>
+              <a href="/Insights" title="Insight">
+               Insight
+              </a>
+             </li>
+             <li>
+              <a href="/On-The-Record" title="On The Record">
+               On The Record
+              </a>
+             </li>
+             <li>
+              <a href="/Blogs/Dispatch" title="Dispatch">
+               Dispatch
+              </a>
+             </li>
+             <li>
+              <a href="/podcasts" title="Podcasts">
+               Podcasts
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="hidden-xs col-sm-9 col-md-10">
+            <ul class="row">
+             <li class="col-md-6">
+              <span class="nav-title-spacer">
+              </span>
+              <span class="author">
+               <a class="img" href="/Jamie-Biesiada/Getting-advisors-on-board-with-booking-air" title="Getting advisors on board with booking air">
+                <img alt="Jamie Biesiada" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/All_TW_Art/TWSTF/JamieBiesiada300x171/Getting-advisors-on-board-with-booking-air.jpg?n=2524&amp;tr=w-78%2Ch-77%2Cfo-auto" title="Jamie Biesiada"/>
+               </a>
+               <span class="details">
+                <a class="title" href="/Jamie-Biesiada/Getting-advisors-on-board-with-booking-air" title="Getting advisors on board with booking air">
+                 Getting advisors on board with booking air
+                </a>
+                <span class="text">
+                 There's a new wave of initiatives and products out there designed to get agents booking clients' flights.
+                </span>
+               </span>
+              </span>
+             </li>
+             <li class="col-md-6">
+              <span class="nav-title-spacer">
+              </span>
+              <span class="author">
+               <a class="img" href="/Mark-Pestronk/Your-rights-as-a-government-subcontractor" title="What if DOGE dumps your travel agency's subcontract?">
+                <img alt="Mark Pestronk" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/All_TW_Art/TWSTF/MarkPestronk300x171/What-if-DOGE-dumps-your-travel-agency%27s-subcontrac.jpg?n=2690&amp;tr=w-78%2Ch-77%2Cfo-auto" title="Mark Pestronk"/>
+               </a>
+               <span class="details">
+                <a class="title" href="/Mark-Pestronk/Your-rights-as-a-government-subcontractor" title="What if DOGE dumps your travel agency's subcontract?">
+                 What if DOGE dumps your travel agency's subcontract?
+                </a>
+                <span class="text">
+                 The Department of Government Efficiency seems to be ordering the cancellation of hundreds of government contracts every day,...
+                </span>
+               </span>
+              </span>
+             </li>
+            </ul>
+            <ul class="row">
+             <li class="col-md-6">
+              <span class="nav-title-spacer">
+              </span>
+              <span class="author">
+               <a class="img" href="/River-Cruising/Insights/welcome-insight-from-our-new-river-cruise-editor" title="Why I'm excited to be onboard as the new river cruise editor">
+                <img alt="Why I'm excited to be onboard as the new river cruise editor" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/All_TW_Art/TWeletters/T0113BRINLEYHINEMAN_C_350x200/Why-I%27m-excited-to-be-onboard-as-the-new-river-cru.jpg?n=7436&amp;tr=w-78%2Ch-77%2Cfo-auto" title="Why I'm excited to be onboard as the new river cruise editor"/>
+               </a>
+               <span class="details">
+                <a class="title" href="/River-Cruising/Insights/welcome-insight-from-our-new-river-cruise-editor" title="Why I'm excited to be onboard as the new river cruise editor">
+                 Why I'm excited to be onboard as the new river cruise editor
+                </a>
+                <span class="text">
+                 Writing about the travel industry is new for me, but the skills are the same as other reporting jobs I've held: careful...
+                </span>
+               </span>
+              </span>
+             </li>
+             <li class="col-md-6">
+              <span class="nav-title-spacer">
+              </span>
+              <span class="author">
+               <a class="img" href="/Caribbean-Travel/Insights/Antigua-Barbuda-culinary-month-event" title="Antigua and Barbuda expands its culinary celebration">
+                <img alt="Antigua and Barbuda expands its culinary celebration" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/All_TW_Art/TWeletters/MeaganDrillinger300x171/Antigua-and-Barbuda-expands-its-culinary-celebrati.jpg?n=6450&amp;tr=w-78%2Ch-77%2Cfo-auto" title="Antigua and Barbuda expands its culinary celebration"/>
+               </a>
+               <span class="details">
+                <a class="title" href="/Caribbean-Travel/Insights/Antigua-Barbuda-culinary-month-event" title="Antigua and Barbuda expands its culinary celebration">
+                 Antigua and Barbuda expands its culinary celebration
+                </a>
+                <span class="text">
+                 May's Culinary Month events build on the success of the two-island nation's annual Restaurant Week.
+                </span>
+               </span>
+              </span>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle" href="#" role="button" title="Resources">
+         Resources
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <ul class="navbar-sub nav-row">
+           <li class="col">
+            <span class="nav-title-spacer">
+            </span>
+            <ul class="links">
+             <li>
+              <a href="/Media" title="Photos &amp; Videos">
+               Photos &amp; Videos
+              </a>
+             </li>
+             <li>
+              <a href="/Preview" title="Preview">
+               Preview
+              </a>
+             </li>
+             <li>
+              <a href="/cruiseworld-coverage" title="CruiseWorld Coverage">
+               CruiseWorld Coverage
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="col">
+            <span class="nav-title-spacer">
+            </span>
+            <ul class="links">
+             <li>
+              Partner Content
+              <ul>
+               <li>
+                <a href="/Advertiser-Spotlight" title="Advertiser Spotlight">
+                 Advertiser Spotlight
+                </a>
+               </li>
+               <li>
+                <a href="/For-Travel-Agents/Seminars" title="Agent Training">
+                 Agent Training
+                </a>
+               </li>
+               <li>
+                <a href="/media/cw-connection" title="CruiseWorld Videos">
+                 CruiseWorld Videos
+                </a>
+               </li>
+               <li>
+                <a href="/For-Travel-Agents/Guides-Brochures" title="Guides &amp; Brochures">
+                 Guides &amp; Brochures
+                </a>
+               </li>
+               <li>
+                <a href="/media/partner-interviews" title="Quick Q's">
+                 Quick Q's
+                </a>
+               </li>
+               <li>
+                <a href="/Strategic-Content" title="Thought Leadership">
+                 Thought Leadership
+                </a>
+               </li>
+               <li>
+                <a href="/Virtual-Events" title="Webinars">
+                 Webinars
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </li>
+           <li class="col">
+            <span class="nav-title-spacer">
+            </span>
+            <ul class="links">
+             <li>
+              Events
+              <ul>
+               <li>
+                <a href="http://www.travelweekly.com/globaltravelmarketplace/" rel="noopener" target="_blank" title="Global Travel Marketplace">
+                 Global Travel Marketplace
+                </a>
+               </li>
+               <li>
+                <a href="http://www.travelweekly.com/Cruiseworld/" rel="noopener" target="_blank" title="CruiseWorld">
+                 CruiseWorld
+                </a>
+               </li>
+               <li>
+                <a href="https://www.futureleadersintravel.com" rel="noopener" target="_blank" title="Future Leaders in Travel Retreat">
+                 Future Leaders in Travel Retreat
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </li>
+           <li class="col">
+            <span class="nav-title-spacer">
+            </span>
+            <ul class="links">
+             <li>
+              Awards
+              <ul>
+               <li>
+                <a href="http://www.travelweeklyawards.com" rel="noopener" target="_blank" title="Magellan">
+                 Magellan
+                </a>
+               </li>
+               <li>
+                <a href="/For-Travel-Agents/Travel-Weekly-Awards" title="Readers Choice">
+                 Readers Choice
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </li>
+           <li class="col">
+            <span class="nav-title-spacer">
+            </span>
+            <ul class="links">
+             <li>
+              Research Reports
+              <ul>
+               <li>
+                <a href="/For-Travel-Agents/Power-List/" title="Power List">
+                 Power List
+                </a>
+               </li>
+               <li>
+                <a href="/For-Travel-Agents/Travel-Industry-Survey/" title="Travel Industry Survey">
+                 Travel Industry Survey
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle" href="/Hotels" role="button" title="Hotel &amp; Cruise Search">
+         Hotel &amp; Cruise
+         <span class="affix-hidden">
+          Search
+         </span>
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <ul class="row navbar-sub">
+           <li class="col-sm-3">
+            <span class="nav-title">
+             Hotels by Region
+            </span>
+            <ul class="links">
+             <li>
+              <a href="/Hotels/Destinations,Africa" title="Africa">
+               Africa
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Asia" title="Asia">
+               Asia
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Australia-South-Pacific" title="Australia &amp; South Pacific">
+               Australia &amp; South Pacific
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Canada" title="Canada">
+               Canada
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Caribbean" title="Caribbean">
+               Caribbean
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Europe" title="Europe">
+               Europe
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Latin-America" title="Latin America">
+               Latin America
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Mexico" title="Mexico">
+               Mexico
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,Middle-East" title="Middle East">
+               Middle East
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations,United-States" title="United States">
+               United States
+              </a>
+             </li>
+             <li>
+              <a class="special" href="/Hotels" title="All Hotels">
+               <span aria-hidden="true" class="icon icon-hotels icon-lg">
+               </span>
+               All Hotels
+               <span aria-hidden="true" class="icon icon-right-small">
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="hidden-xs col-sm-3 small">
+            <span class="nav-title">
+             Most Popular Hotel Cities
+            </span>
+            <ul class="links">
+             <li>
+              <a href="/Hotels/Bangkok" title="Bangkok, Thailand">
+               Bangkok, Thailand
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Barcelona" title="Barcelona, Spain">
+               Barcelona, Spain
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Beijing" title="Beijing, China">
+               Beijing, China
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Berlin" title="Berlin, Germany">
+               Berlin, Germany
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Buenos-Aires" title="Buenos Aires, Argentina">
+               Buenos Aires, Argentina
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Chicago" title="Chicago, Illinois">
+               Chicago, Illinois
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Delhi" title="Delhi, India">
+               Delhi, India
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Dubai" title="Dubai, United Arab Emirates">
+               Dubai, United Arab Emirates
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Florence" title="Florence, Italy">
+               Florence, Italy
+              </a>
+             </li>
+             <li>
+              <a href="/Hotels/Destinations" title="All Hotel Cities...">
+               All Hotel Cities...
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="col-sm-3">
+            <span class="nav-title">
+             Cruises by region
+            </span>
+            <ul class="links">
+             <li>
+              <a href="/Cruise/Africa-Middle-East" title="Africa / Middle East">
+               Africa / Middle East
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Alaska" title="Alaska">
+               Alaska
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Asia" title="Asia">
+               Asia
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Pacific-Australia" title="Australia &amp; South Pacific">
+               Australia &amp; South Pacific
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Caribbean" title="Caribbean">
+               Caribbean
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Europe" title="Europe">
+               Europe
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Mediterranean" title="Mediterranean">
+               Mediterranean
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Mexico" title="Mexico">
+               Mexico
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/United-States-Canada" title="United States / Canada">
+               United States / Canada
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Far-Off-Places" title="Trans-Oceanic &amp; World">
+               Trans-Oceanic &amp; World
+              </a>
+             </li>
+             <li>
+              <a class="special cruise" href="/Cruise" title="All Cruises">
+               <span aria-hidden="true" class="icon icon-cruises icon-lg">
+               </span>
+               All Cruises
+               <span aria-hidden="true" class="icon icon-right-small">
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="hidden-xs col-sm-3 small">
+            <span class="nav-title">
+             Most Popular Cruise Lines
+            </span>
+            <ul class="links">
+             <li>
+              <a href="/Cruise/AmaWaterways" title="AmaWaterways">
+               AmaWaterways
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Carnival-Cruise-Line" title="Carnival Cruise Line">
+               Carnival Cruise Line
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Costa-Cruise-Lines" title="Costa Cruise Lines">
+               Costa Cruise Lines
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Holland-America-Line" title="Holland America Line">
+               Holland America Line
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/MSC-Cruises" title="MSC Cruises">
+               MSC Cruises
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Norwegian-Cruise-Line" title="Norwegian Cruise Line">
+               Norwegian Cruise Line
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Princess-Cruises" title="Princess Cruises">
+               Princess Cruises
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Royal-Caribbean-International" title="Royal Caribbean International">
+               Royal Caribbean International
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Uniworld-Boutique-River-Cruise-Collection">
+               Uniworld Boutique River Cruise Collection
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Viking-River-Cruises">
+               Viking River Cruises
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Virgin-Voyages">
+               Virgin Voyages
+              </a>
+             </li>
+             <li>
+              <a href="/Cruise/Lines" title="All Cruise Lines...">
+               All Cruise Lines...
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <div class="navbar-form navbar-right">
+       <div class="search-input">
+        <input aria-label="Search" class="form-control jq-site-search" placeholder="Site Search" type="search"/>
+        <button aria-label="Search" class="btn-search jq-header-search-btn" title="Search" type="submit">
+         <span aria-hidden="true" class="icon icon-search">
+         </span>
+        </button>
+       </div>
+      </div>
+     </div>
+    </nav>
+   </header>
+  </div>
+  <!-- BODY HEADER end -->
+  <div class="offset-container cs-post-target" draggable="false">
+   <div>
+    <!-- Single Hotel Header -->
+    <div class="container single-header-container" style="padding-left: 30px; padding-right: 30px;">
+     <div class="row">
+      <div class="col-md-9">
+       <div class="breadcrumb">
+        <a href="/">
+         Home
+        </a>
+        /
+        <a href="/Hotels">
+         Hotels
+        </a>
+        /
+        <a href="/Hotels/United-States">
+         United States
+        </a>
+        /
+        <a href="/Hotels/Arizona">
+         Arizona
+        </a>
+        /
+        <a href="/Hotels/Flagstaff-AZ">
+         Flagstaff
+        </a>
+       </div>
+      </div>
+      <div class="col-md-3">
+       <div class="back-to-search-button">
+        <a class="btn" href="/Hotels">
+         Back to Search Results
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-xs-12">
+       <h1 class="title-xxl">
+        Days Hotel by Wyndham Flagstaff
+       </h1>
+       <p class="hotel-address">
+        2200 E Butler Ave, Flagstaff, AZ 86004
+       </p>
+      </div>
+     </div>
+     <div class="row photo-gallery-row">
+      <div class="col-xs-12 photo-gallery-col">
+       <div class="photo-gallery">
+        <div class="gallery-image-wrapper">
+         <img alt="Days Hotel by Wyndham Flagstaff Exterior" class="img-responsive" sizes="(min-width: 1200px) 656px,(min-width: 992px) and (max-width: 1199px) 536px,(min-width: 768px) and (max-width: 991px) 401px,(min-width: 391px) and (max-width: 767px) 680px,(max-width: 390px) 320px,100vw" src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-656%2Ch-390%2Cfo-auto" srcset="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-656%2Ch-390%2Cfo-auto 656w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-536%2Ch-390%2Cfo-auto 536w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-401%2Ch-390%2Cfo-auto 401w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-680%2Ch-404%2Cfo-auto 680w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-320%2Ch-190%2Cfo-auto 320w" title="Days Hotel by Wyndham Flagstaff Exterior"/>
+        </div>
+        <div class="gallery-image-wrapper">
+         <img alt="Days Hotel by Wyndham Flagstaff Lobby" class="img-responsive" sizes="(min-width: 1200px) 434px,(min-width: 992px) and (max-width: 1199px) 354px,(min-width: 768px) and (max-width: 991px) 264px,(min-width: 391px) and (max-width: 767px) 2px,(max-width: 390px) 1px,100vw" src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729415_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-434%2Ch-190%2Cfo-auto" srcset="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729415_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-434%2Ch-190%2Cfo-auto 434w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729415_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-354%2Ch-190%2Cfo-auto 354w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729415_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-264%2Ch-190%2Cfo-auto 264w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-2%2Ch-2%2Cfo-auto 2w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-1%2Ch-1%2Cfo-auto 1w" title="Days Hotel by Wyndham Flagstaff Lobby"/>
+        </div>
+        <div class="gallery-image-wrapper">
+         <img alt="Days Hotel by Wyndham Flagstaff Lobby" class="img-responsive" sizes="(min-width: 1200px) 212px,(min-width: 992px) and (max-width: 1199px) 172px,(min-width: 768px) and (max-width: 991px) 128px,(min-width: 391px) and (max-width: 767px) 2px,(max-width: 390px) 1px,100vw" src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729403_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-212%2Ch-190%2Cfo-auto" srcset="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729403_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-212%2Ch-190%2Cfo-auto 212w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729403_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-172%2Ch-190%2Cfo-auto 172w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729403_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-128%2Ch-190%2Cfo-auto 128w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-2%2Ch-2%2Cfo-auto 2w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-1%2Ch-1%2Cfo-auto 1w" title="Days Hotel by Wyndham Flagstaff Lobby"/>
+        </div>
+        <div class="gallery-image-wrapper">
+         <img alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" sizes="(min-width: 1200px) 212px,(min-width: 992px) and (max-width: 1199px) 172px,(min-width: 768px) and (max-width: 991px) 128px,(min-width: 391px) and (max-width: 767px) 2px,(max-width: 390px) 1px,100vw" src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/68984993_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-212%2Ch-190%2Cfo-auto" srcset="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/68984993_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-212%2Ch-190%2Cfo-auto 212w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/68984993_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-172%2Ch-190%2Cfo-auto 172w,https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/68984993_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-128%2Ch-190%2Cfo-auto 128w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-2%2Ch-2%2Cfo-auto 2w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-1%2Ch-1%2Cfo-auto 1w" title="Days Hotel by Wyndham Flagstaff Room"/>
+        </div>
+       </div>
+       <div class="all-photos-button">
+        <button class="all-photos-btn btn">
+         All Photos (18)
+        </button>
+       </div>
+      </div>
+      <div class="col-xs-12 image-credit">
+       Images powered by
+       <a href="https://iceportal.shijigroup.com/" target="_blank" title="IcePortal">
+        IcePortal
+       </a>
+      </div>
+     </div>
+     <!-- Photo Gallery Modal -->
+     <div class="container photo-gallery-modal-container" style="display: none;">
+      <div class="photo-gallery-modal">
+       <div class="gallery-modal-close">
+        <button class="gallery-modal-close-btn btn">
+         <span class="screen-reader-text">
+          Close
+         </span>
+         <i class="fa-solid fa-xmark">
+         </i>
+        </button>
+       </div>
+       <div class="carousel slide photo-gallery-carousel" data-bs-interval="false" data-ride="carousel" id="photoGalleryCarousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="1" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="2" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="3" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="4" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="5" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="6" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="7" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="8" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="9" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="10" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="11" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="12" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="13" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="14" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="15" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="16" data-target="#photoGalleryCarousel">
+         </li>
+         <li data-slide-to="17" data-target="#photoGalleryCarousel">
+         </li>
+        </ol>
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+         <div class="item active">
+          <img _srcdelay1="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729417_XL/Days-Hotel-by-Wyndham-Flagstaff-Exterior.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Exterior" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Exterior"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Exterior
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729415_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Lobby" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Lobby"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Lobby
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729403_XL/Days-Hotel-by-Wyndham-Flagstaff-Lobby.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Lobby" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Lobby"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Lobby
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/68984993_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Room"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Room
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729499_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Room"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Room
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67729463_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Room"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Room
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718353_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Room"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Room
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718351_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Room"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Room
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718359_XL/Days-Hotel-by-Wyndham-Flagstaff-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Room" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Room"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Room
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718399_XL/Days-Hotel-by-Wyndham-Flagstaff-Pool.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Pool" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Pool"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Pool
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718397_XL/Days-Hotel-by-Wyndham-Flagstaff-Pool.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Pool" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Pool"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Pool
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718395_XL/Days-Hotel-by-Wyndham-Flagstaff-Pool.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Pool" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Pool"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Pool
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718313_XL/Days-Hotel-by-Wyndham-Flagstaff-Restaurant.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Restaurant" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Restaurant"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Restaurant
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718311_XL/Days-Hotel-by-Wyndham-Flagstaff-Restaurant.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Restaurant" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Restaurant"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Restaurant
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718319_XL/Days-Hotel-by-Wyndham-Flagstaff-Restaurant.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Restaurant" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Restaurant"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Restaurant
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718317_XL/Days-Hotel-by-Wyndham-Flagstaff-Restaurant.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Restaurant" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Restaurant"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Restaurant
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718303_XL/Days-Hotel-by-Wyndham-Flagstaff-Restaurant.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Restaurant" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Restaurant"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Restaurant
+          </div>
+         </div>
+         <div class="item">
+          <img _gallerysrc="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/32031/photos/67718389_XL/Days-Hotel-by-Wyndham-Flagstaff-Restaurant.jpg?tr=w-780%2Ch-437%2Cfo-auto" alt="Days Hotel by Wyndham Flagstaff Restaurant" class="img-responsive" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-780%2Ch-437%2Cfo-auto" title="Days Hotel by Wyndham Flagstaff Restaurant"/>
+          <div class="carousel-caption">
+           Days Hotel by Wyndham Flagstaff Restaurant
+          </div>
+         </div>
+        </div>
+        <!-- Controls -->
+        <a class="left carousel-control" data-slide="prev" href="#photoGalleryCarousel">
+         <span class="glyphicon glyphicon-chevron-left">
+         </span>
+        </a>
+        <a class="right carousel-control" data-slide="next" href="#photoGalleryCarousel">
+         <span class="glyphicon glyphicon-chevron-right">
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+     <!-- End Photo Gallery Modal -->
+     <div class="row" style="padding-top:11px">
+      <div class="single-hotel-jump-nav ul-seconday-nav">
+       <ul>
+        <li>
+         <a href="#overview">
+          Overview
+         </a>
+        </li>
+        <li>
+         <a href="#meetings-rooms-events">
+          Meeting Rooms &amp; Events
+         </a>
+        </li>
+        <li>
+         <a href="#local-info">
+          Local Info
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <!-- Single Hotel Header -->
+    <!-- Hotel Info / Sidebar -->
+    <div class="container content-sidebar-container" style="padding-left: 30px; padding-right: 30px;">
+     <div class="row custom-row">
+      <div class="col-md-9 single-hotel-info-col">
+       <div class="gds-information gray-card">
+        <h2>
+         Days Hotel by Wyndham Flagstaff GDS Codes
+        </h2>
+        <div class="row">
+         <div class="col-md-3">
+          <p class="gds-label">
+           Amadeus GDS
+          </p>
+          <p class="gds-code">
+           DI FLG924
+          </p>
+         </div>
+         <div class="col-md-3">
+          <p class="gds-label">
+           Galileo/Apollo GDS
+          </p>
+          <p class="gds-code">
+           DI 38529
+          </p>
+         </div>
+         <div class="col-md-3">
+          <p class="gds-label">
+           Sabre GDS
+          </p>
+          <p class="gds-code">
+           DI 060639
+          </p>
+         </div>
+         <div class="col-md-3">
+          <p class="gds-label">
+           Worldspan GDS
+          </p>
+          <p class="gds-code">
+           DI 13924
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="overview-information" id="overview">
+        <h2 class="title-xxl">
+         Overview
+        </h2>
+        <div class="hotel-overview">
+         <p>
+          <b>
+           Description
+          </b>
+         </p>
+         <p>
+          Three-story Motor Hotel located 3 miles from downtown &amp; 5 miles from Fulliam Field airport (courtesy transfer).
+         </p>
+         <div class="row single-hotel-meta">
+          <div class="col-md-3">
+           <p class="hotel-rating">
+            <span class="rating-icon">
+             <i aria-hidden="true" class="fa-solid fa-book-blank">
+             </i>
+             <span class="rating-number">
+              4
+             </span>
+            </span>
+            Moderate First Class
+            <a class="hotel-results-explain" href="/Hotels/About-Classifications" target="blank">
+             <span aria-hidden="true" class="icon icon-question-o">
+             </span>
+            </a>
+           </p>
+          </div>
+          <div class="col-md-3">
+           <p class="hotel-commission">
+            <i aria-hidden="true" class="fa-regular fa-hand-holding-circle-dollar">
+            </i>
+            Commission:
+            <strong>
+             10%
+            </strong>
+           </p>
+          </div>
+          <div class="col-md-3">
+           
+           <p class="hotel-rooms">
+            <i aria-hidden="true" class="fa-regular fa-bed-front">
+            </i>
+            Rooms:
+            <strong>
+             100
+            </strong>
+           </p>
+          
+          </div>
+          <div class="col-md-3">
+           <p class="hotel-rates">
+            <i aria-hidden="true" class="fa-regular fa-money-check-dollar-pen">
+            </i>
+            Rates:
+            <strong>
+             -
+            </strong>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="amenities">
+         <h3>
+          Days Hotel by Wyndham Flagstaff Amenities
+         </h3>
+         <p>
+          Amenities are in all rooms unless noted otherwise
+         </p>
+         <ul class="amenities-list">
+          <li>
+           Air Conditioning
+          </li>
+          <li>
+           Balcony/Terrace
+          </li>
+          <li>
+           Coffeemaker
+          </li>
+          <li>
+           Daily Maid Service
+          </li>
+          <li>
+           Fitness Equipment (some)
+          </li>
+          <li>
+           Iron/Ironing Board
+          </li>
+          <li>
+           Microwave Oven
+          </li>
+          <li>
+           Free Newspaper
+          </li>
+          <li>
+           Rooms for Non-smokers
+          </li>
+          <li>
+           Telephone
+          </li>
+          <li>
+           Refrigerator
+          </li>
+          <li>
+           Cable/Satellite Television
+          </li>
+          <li>
+           Television
+          </li>
+          <li>
+           Internet Access (High Speed &amp; Wireless)
+          </li>
+         </ul>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="activities-recreation">
+         <h3>
+          Days Hotel by Wyndham Flagstaff Activities &amp; Recreation
+         </h3>
+         <div class="row">
+          <div class="col-md-6">
+           <h4>
+            On-Site Activities
+           </h4>
+           <ul>
+            <li>
+             Health Club
+            </li>
+            <li>
+             Hot Tub
+            </li>
+            <li>
+             Pool (Indoor Pool)
+            </li>
+           </ul>
+          </div>
+          <div class="col-md-6">
+           <h4>
+            Nearby Activities
+           </h4>
+           <ul>
+            <li>
+             Golf Course
+            </li>
+            <li>
+             Health Spa/Massage
+            </li>
+            <li>
+             Shopping Mall/Area
+            </li>
+            <li>
+             Snow Skiing
+            </li>
+            <li>
+             Water Skiing
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="hotel-information">
+         <h3>
+          Days Hotel by Wyndham Flagstaff Hotel Information
+         </h3>
+         <div class="row">
+          <div class="col-md-6">
+           <div class="hotel-information-details">
+            <h4>
+             Details
+            </h4>
+            <p>
+             Year Built:
+             <strong>
+              1980
+             </strong>
+            </p>
+            <p>
+             Year Last Renovated:
+             <strong>
+              2019
+             </strong>
+            </p>
+            <p>
+             Check in Time:
+             <strong>
+              3:00 PM
+             </strong>
+            </p>
+            <p>
+             Check out Time:
+             <strong>
+              11:00 AM
+             </strong>
+            </p>
+            <p>
+             Number of Floors:
+             <strong>
+              3
+             </strong>
+            </p>
+            
+            <p>
+             Chain:
+             <a href="/Hotels/Companies/Days-Inns-by-Wyndham" rel="noopener" target="_blank">
+              Days Inns by Wyndham
+             </a>
+            </p>
+
+
+            <p>
+             <a href="https://www.wyndhamhotels.com/days-inn" rel="noopener" target="_blank">
+              Chain Website
+             </a>
+            </p>
+           </div>
+           <div class="hotel-information-details">
+            <h4>
+             Discounts offered
+            </h4>
+            <p>
+             AAA discount
+            </p>
+            <p>
+             Group discount
+            </p>
+            <p>
+             Corporate discount
+            </p>
+            <p>
+             Government/ Military discount
+            </p>
+            <p>
+             AARP discount
+            </p>
+            <p>
+             Travel Agents 10.0%
+            </p>
+            <p>
+             Airline Personnel 10.0%
+            </p>
+           </div>
+
+
+           
+          </div>
+          <div class="col-md-6 gray-card">
+           <p>
+            Credit Cards:
+            <strong>
+             Credit Cards Are Accepted
+            </strong>
+           </p>
+           <p>
+            Deposit Policy:
+            <strong>
+             24 hours prior to arrival, special events GTD policy will vary
+            </strong>
+           </p>
+           <p>
+            Reservation Policy:
+            <strong>
+             Reservations must be guaranteed with a credit card
+            </strong>
+           </p>
+           <p>
+            Cancellation Policy:
+            <strong>
+             Individuals- 24 hrs, Grps- 21 days prior in writing
+            </strong>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="services-facilities">
+         <h3>
+          Days Hotel by Wyndham Flagstaff Services &amp; Facilities
+         </h3>
+         <div class="row">
+          <div class="col-md-6">
+           <h4>
+            Guest Services
+           </h4>
+           <ul class="guest-services-list">
+            <li>
+             ATM/Bank
+            </li>
+            <li>
+             Complimentary Coffee
+            </li>
+            <li>
+             Crib/Rollaway Bed
+            </li>
+            <li>
+             Laundry Room
+            </li>
+            <li>
+             Laundry/Dry Cleaning Service
+            </li>
+            <li>
+             Multi-lingual Staff
+            </li>
+            <li>
+             Free Onsite Parking
+            </li>
+            <li>
+             Room Service
+            </li>
+            <li>
+             Wheelchair Access to Common/Public Areas
+            </li>
+            <li>
+             Common Area Internet Access (High Speed &amp; Wireless)
+            </li>
+           </ul>
+          </div>
+          <div class="col-md-6">
+           <h4>
+            Security Services
+           </h4>
+           <ul class="security-services-list">
+            <li>
+             Electronic Key/Lock
+            </li>
+            <li>
+             Parking Area Well Lit
+            </li>
+            <li>
+             Smoke Alarm in Rooms
+            </li>
+            <li>
+             Sprinkler in Rooms
+            </li>
+            <li>
+             Surveillance Cameras On Site
+            </li>
+           </ul>
+           <h4>
+            Pet Services
+           </h4>
+           <ul class="security-services-list">
+            <li>
+             Size Limit
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="inline-advert hidden-xs" id="div-gpt-ad-Middle1" style="text-align:center;margin-bottom:30px;margin-top:30px;">
+        <script>
+         renderAd('div-gpt-ad-Middle1');
+        </script>
+       </div>
+       <div class="meetings-rooms-events-information" id="meetings-rooms-events">
+        <h2 class="title-xxl">
+         Days Hotel by Wyndham Flagstaff Meeting Rooms &amp; Events
+        </h2>
+        <!--<p>For details on meeting room availability and specifications <a href="#">click here</a>.</p>-->
+        <div class="event-space row">
+         <div class="col-md-8">
+          <h4>
+           Key Personnel
+          </h4>
+          <p>
+           Jose Alvarado, Director of Sales
+          </p>
+         </div>
+         <div class="col-md-4">
+          <h4>
+           Meeting &amp; Business Services
+          </h4>
+          <ul class="meeting-business-services-list">
+           <li>
+            Business Center
+           </li>
+           <li>
+            Copier
+           </li>
+           <li>
+            Personal Computer
+           </li>
+           <li>
+            Fax
+           </li>
+           <li>
+            Administrative Services
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="local-information" id="local-info">
+        <h2 class="title-xxl">
+         Days Hotel by Wyndham Flagstaff Local Info
+        </h2>
+        <p>
+         Off I-40, Butler Ave Exit - 5 MI, 10 min from Flagstaff Pulliam airport. 6 MI from FLAGSTAFF
+        </p>
+        <p>
+         Hotel Location:
+         <strong>
+          Tourist
+         </strong>
+        </p>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="dining-options">
+         <h3>
+          Dining Options
+         </h3>
+         <ul class="dining-options-list">
+          <li>
+           Northern Pines Bar (Onsite)
+          </li>
+          <li>
+           Northern Pines (Onsite)
+          </li>
+          <li>
+           <a href="/Hotels/Flagstaff-AZ/Attractions" title="More Days Hotel by Wyndham Flagstaff Dining">
+            More Dining near Days Hotel by Wyndham Flagstaff
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="sightseeing-poi">
+         <h3>
+          Sightseeing &amp; Points of Interest
+         </h3>
+         <ul class="sightseeing-poi-list">
+          <li>
+           NAU (2 miles east)
+          </li>
+          <li>
+           Grand Canyon National Park (80 miles northeast)
+          </li>
+          <li>
+           <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Lowell-Observatory-p4587562">
+            Lowell Observatory
+           </a>
+           (2 miles north)
+          </li>
+          <li>
+           <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Riordan-Mansion-State-Historic-Park-p4587633">
+            Riordan Mansion State Historic Park
+           </a>
+           (2 miles west)
+          </li>
+          <li>
+           <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Sunset-Crater-National-Monument-p4587448">
+            Sunset Crater National Monument
+           </a>
+           (2 miles northeast)
+          </li>
+          <li>
+           <a href="/Hotels/Flagstaff-AZ/Attractions" title="More Days Hotel by Wyndham Flagstaff Sightseeing">
+            More Sightseeing near Days Hotel by Wyndham Flagstaff
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="nearby-airports">
+         <h3>
+          Nearby Airports
+         </h3>
+         <ul class="nearby-airports-list">
+          <li>
+           <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Flagstaff-Pulliam">
+            Flagstaff Pulliam
+           </a>
+           (4.50 miles southwest)
+          </li>
+          <li>
+           <a href="/Hotels/Grand-Canyon-AZ/Hotels-Near-Grand-Canyon">
+            Grand Canyon
+           </a>
+           (60.25 miles northwest)
+          </li>
+          <li>
+           <a href="/Hotels/Grand-Canyon-AZ/Hotels-Near-Grand-Canyon-H-P">
+            Grand Canyon H/P
+           </a>
+           (60.25 miles northwest)
+          </li>
+          <li>
+           <a href="/Hotels/Airports/Flagstaff-AZ" title="More Days Hotel by Wyndham Flagstaff Airports">
+            More Airports near Days Hotel by Wyndham Flagstaff
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="other-hotels">
+        <h2 class="title-xxl">
+         Other Flagstaff Area Hotels
+        </h2>
+        <div class="row" style="display:unset">
+         <div class="col-sm-4 hotel-listing">
+          <div class="hotel-listing-image-wrap">
+           <a alt="Little America Hotel" href="/Hotels/Flagstaff-AZ/Little-America-Hotel-p3705479" title="Little America Hotel">
+            <img _src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/54399/photos/76086757_XL/Little-America-Hotel.jpg?tr=w-300%2Ch-180%2Cfo-auto" alt="Little America Hotel" class="img-responsive img-fullwidth" title="Little America Hotel"/>
+           </a>
+          </div>
+          <div class="hotel-listing-content">
+           <h3 class="hotel-name">
+            <a alt="Little America Hotel" href="/Hotels/Flagstaff-AZ/Little-America-Hotel-p3705479" title="Little America Hotel">
+             Little America Hotel
+            </a>
+           </h3>
+           <div class="hotel-listing-meta">
+            <p class="hotel-location-meta">
+             <i class="fa-solid fa-location-dot">
+             </i>
+             Flagstaff, Arizona
+            </p>
+            <p class="hotel-rating">
+             <span class="rating-icon">
+              <i class="fa-solid fa-book-blank">
+              </i>
+              <span class="rating-number">
+               6
+              </span>
+             </span>
+             First Class
+            </p>
+           </div>
+           <p>
+            Resort Hotel offers traditional guest comforts, room amenities and furnishings, fine dining; situated on 500 acres of pine forest.
+           </p>
+           <p class="more-link">
+            <a alt="Little America Hotel" class="text-link" href="/Hotels/Flagstaff-AZ/Little-America-Hotel-p3705479" title="Little America Hotel">
+             View Hotel Details
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="col-sm-4 hotel-listing">
+          <div class="hotel-listing-image-wrap">
+           <a alt="Hotel Weatherford" href="/Hotels/Flagstaff-AZ/Hotel-Weatherford-p3883549" title="Hotel Weatherford">
+            <img _src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://images.ntmllc.com/v4/hotel/S66/S66887/S66887_EXT_ZF5D42/Hotel-Weatherford.JPG?tr=w-300%2Ch-180%2Cfo-auto" alt="Hotel Weatherford" class="img-responsive img-fullwidth" title="Hotel Weatherford"/>
+           </a>
+          </div>
+          <div class="hotel-listing-content">
+           <h3 class="hotel-name">
+            <a alt="Hotel Weatherford" href="/Hotels/Flagstaff-AZ/Hotel-Weatherford-p3883549" title="Hotel Weatherford">
+             Hotel Weatherford
+            </a>
+           </h3>
+           <div class="hotel-listing-meta">
+            <p class="hotel-location-meta">
+             <i class="fa-solid fa-location-dot">
+             </i>
+             Flagstaff, Arizona
+            </p>
+            <p class="hotel-rating">
+             <span class="rating-icon">
+              <i class="fa-solid fa-book-blank">
+              </i>
+              <span class="rating-number">
+               4
+              </span>
+             </span>
+             Moderate First Class
+            </p>
+           </div>
+           <p>
+            Small Landmark Hotel with a truly historic, Old West guest list including Wyatt Earp &amp; Zane Grey, plus Theodore Roosevelt.
+           </p>
+           <p class="more-link">
+            <a alt="Hotel Weatherford" class="text-link" href="/Hotels/Flagstaff-AZ/Hotel-Weatherford-p3883549" title="Hotel Weatherford">
+             View Hotel Details
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="col-sm-4 hotel-listing">
+          <div class="hotel-listing-image-wrap">
+           <a alt="Residence Inn Flagstaff" href="/Hotels/Flagstaff-AZ/Residence-Inn-Flagstaff-p51572350" title="Residence Inn Flagstaff">
+            <img _src="https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://www.cfmedia.vfmleonardo.com/imageRepo/2/0/189/71/451/eaO9G6sk3EGEnHxwNT0nw_flgrf-exterior-0001_O/Residence-Inn-Flagstaff.jpg?tr=w-300%2Ch-180%2Cfo-auto" alt="Residence Inn Flagstaff" class="img-responsive img-fullwidth" title="Residence Inn Flagstaff"/>
+           </a>
+          </div>
+          <div class="hotel-listing-content">
+           <h3 class="hotel-name">
+            <a alt="Residence Inn Flagstaff" href="/Hotels/Flagstaff-AZ/Residence-Inn-Flagstaff-p51572350" title="Residence Inn Flagstaff">
+             Residence Inn Flagstaff
+            </a>
+           </h3>
+           <div class="hotel-listing-meta">
+            <p class="hotel-location-meta">
+             <i class="fa-solid fa-location-dot">
+             </i>
+             Flagstaff, Arizona
+            </p>
+            <p class="hotel-rating">
+             <span class="rating-icon">
+              <i class="fa-solid fa-book-blank">
+              </i>
+              <span class="rating-number">
+               5
+              </span>
+             </span>
+             Limited Service First Class
+            </p>
+           </div>
+           <p>
+            This 110 room property, built in 2017...
+           </p>
+           <p class="more-link">
+            <a alt="Residence Inn Flagstaff" class="text-link" href="/Hotels/Flagstaff-AZ/Residence-Inn-Flagstaff-p51572350" title="Residence Inn Flagstaff">
+             View Hotel Details
+            </a>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-md-3 single-hotel-sidebar">
+       <div class="right-panel">
+        <!-- hotel sidebar -->
+        <div class="hotelier-callout red-card">
+         <h2>
+          <i class="fa-regular fa-hotel">
+          </i>
+          Hoteliers!
+         </h2>
+         <p>
+          Is your information accurate?
+         </p>
+         <p>
+          <a class="text-link" href="http://hoteldata.ntmllc.com" rel="noopener" target="_blank" title="Update your hotel data">
+           Update Here
+          </a>
+         </p>
+        </div>
+        <div class="map-preview-container">
+         <img _srcsetdelay1="https://maps.googleapis.com/maps/api/staticmap?zoom=13&amp;key=AIzaSyBxoo59pm9S03Tga3uHWhSow97FzKOhrbU&amp;markers=color:red%7Csize:L%7Clabel:Days+Hotel+by+Wyndham+Flagstaff%7C35.192787,-111.624428&amp;size=255x255&amp;signature=U_IpZn4jEq5pwNCjOn4QJKxOKec= 255w,https://maps.googleapis.com/maps/api/staticmap?zoom=13&amp;key=AIzaSyBxoo59pm9S03Tga3uHWhSow97FzKOhrbU&amp;markers=color:red%7Csize:L%7Clabel:Days+Hotel+by+Wyndham+Flagstaff%7C35.192787,-111.624428&amp;size=205x205&amp;signature=-OVD4XUsHH-kLwHWK4ZMNaCawBU= 205w,https://maps.googleapis.com/maps/api/staticmap?zoom=13&amp;key=AIzaSyBxoo59pm9S03Tga3uHWhSow97FzKOhrbU&amp;markers=color:red%7Csize:L%7Clabel:Days+Hotel+by+Wyndham+Flagstaff%7C35.192787,-111.624428&amp;size=685x685&amp;signature=Shn0Be6L8SjmF8Uuoyu_qDQxuJw= 685w,https://maps.googleapis.com/maps/api/staticmap?zoom=13&amp;key=AIzaSyBxoo59pm9S03Tga3uHWhSow97FzKOhrbU&amp;markers=color:red%7Csize:L%7Clabel:Days+Hotel+by+Wyndham+Flagstaff%7C35.192787,-111.624428&amp;size=674x674&amp;signature=hQ2zq_zsUzjxzBOoBbo6yAH8Nh0= 674w,https://maps.googleapis.com/maps/api/staticmap?zoom=13&amp;key=AIzaSyBxoo59pm9S03Tga3uHWhSow97FzKOhrbU&amp;markers=color:red%7Csize:L%7Clabel:Days+Hotel+by+Wyndham+Flagstaff%7C35.192787,-111.624428&amp;size=330x330&amp;signature=upzAH_-KgLAipMy5bjP_36w5zM4= 330w" alt="Days Hotel by Wyndham Flagstaff Location Map" class="img-responsive img-fullwidth rounded" height="255" sizes="(min-width: 1200px) 255px,(min-width: 992px) and (max-width: 1199px) 205px,(min-width: 768px) and (max-width: 991px) 685px,(min-width: 391px) and (max-width: 767px) 674px,(max-width: 390px) 330px,100vw" src="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-255%2Ch-255%2Cfo-auto" srcset="https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-255%2Ch-255%2Cfo-auto 255w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-205%2Ch-205%2Cfo-auto 205w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-685%2Ch-685%2Cfo-auto 685w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-674%2Ch-674%2Cfo-auto 674w,https://ik.imgkit.net/3vlqs5axxjf/TW/x.png?tr=w-330%2Ch-330%2Cfo-auto 330w" style="background-color:#dadada" title="Days Hotel by Wyndham Flagstaff Location Map" width="255">
+          <p>
+           2200 E Butler Ave
+           <br/>
+           Flagstaff, AZ 86004
+          </p>
+          <p>
+           <button class="hotel-single-map-view text-link">
+            Map View
+           </button>
+          </p>
+         </img>
+        </div>
+        <div class="seperator">
+         <hr/>
+        </div>
+        <div class="hotel-contact-information">
+         <p class="hotel-phone-number">
+          <i class="fa-regular fa-phone">
+          </i>
+          Phone:
+          <strong>
+           1 928-637-6772
+          </strong>
+         </p>
+         <p class="hotel-fax-number">
+          <i class="fa-regular fa-fax">
+          </i>
+          Fax:
+          <strong>
+           1 928-774-3990
+          </strong>
+         </p>
+         <p class="hotel-toll-free">
+          <i class="fa-regular fa-phone">
+          </i>
+          Toll-Free:
+          <strong>
+           877-518-9367
+          </strong>
+         </p>
+         <p class="hotel-email">
+          <i class="fa-regular fa-envelope">
+          </i>
+          <a href="mailto:hotel@dayshotelflagstaff.com" rel="noopener" target="_blank" title="Hotel Email">
+           Hotel Email
+          </a>
+         </p>
+         <p class="hotel-website">
+          <i class="fa-regular fa-laptop">
+          </i>
+          <a href="https://www.wyndhamhotels.com/days-inn/flagstaff-arizona/days-hotel-flagstaff/overview" rel="noopener" target="_blank" title="Hotel Website">
+           Hotel Website
+          </a>
+         </p>
+        </div>
+        <div class="large-map-container large-map-holder">
+         <div class="container-fluid map-top-bar large-map-title">
+          <div class="row">
+           <div class="hotel-map-heading-count col-md-10">
+            <h2>
+             Days Hotel by Wyndham Flagstaff
+            </h2>
+            <div class="results results-count">
+             2200 E Butler Ave Flagstaff, AZ 86004
+            </div>
+           </div>
+           <div class="return-to-list col-md-2">
+            <button class="return-to-single-btn btn">
+             <i class="fa-solid fa-xmark">
+             </i>
+             Return to hotel info
+            </button>
+           </div>
+          </div>
+          <style>
+           .show-rel {
+                    padding-left: 17px
+                }
+                .show-rel input{margin-left:10px;}
+          </style>
+          <div class="row">
+           <div class="col-12 show-rel">
+            <b>
+             Show Nearby :
+            </b>
+            <input id="chkNearbyHOT" type="checkbox" value="HOT"/>
+            <label for="chkNearbyHOT">
+             Hotels
+            </label>
+            <input id="chkNearbyDIN" type="checkbox" value="DIN"/>
+            <label for="chkNearbyDIN">
+             Dining
+            </label>
+            <input id="chkNearbySNDO" type="checkbox" value="SNDO"/>
+            <label for="chkNearbySNDO">
+             Sightseeing &amp; Points of Interest
+            </label>
+            <input id="chkNearbyAPT" type="checkbox" value="APT"/>
+            <label for="chkNearbyAPT">
+             Nearby Airports
+            </label>
+           </div>
+          </div>
+         </div>
+         <div class="container-fluid map-container large-map-instance">
+          <div class="row">
+           <div class="m-auto clsMapRefresh">
+            Search this map area
+           </div>
+           <div class="map-canvasx" id="myMap">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="panel-item">
+         <div class="advert" id="div-gpt-ad-Right1" style="min-height:250px;">
+          <script>
+           renderAd('div-gpt-ad-Right1');
+          </script>
+         </div>
+        </div>
+        <div class="panel-item">
+         <div class="advert" id="div-gpt-ad-Right2" style="min-height:250px;">
+          <script>
+           renderAd('div-gpt-ad-Right2');
+          </script>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- End Hotel Info / Sidebar -->
+   </div>
+   <div class="container" style="padding-top:0px !important;">
+    <div class="row">
+     <div class="col-md-12">
+      <div class="inline-advert hidden-xs" id="div-gpt-ad-Bottom" style="text-align:center;margin-bottom:30px;margin-top:30px;min-height:90px;">
+       <script>
+        renderAd('div-gpt-ad-Bottom');
+       </script>
+      </div>
+      <div class="inline-advert hidden-sm hidden-md hidden-lg hidden-xl" id="div-gpt-ad-mobile-Bottom" style="text-align:center;margin-bottom:30px;margin-top:30px;min-height:50px;">
+       <script>
+        renderAd('div-gpt-ad-mobile-Bottom');
+       </script>
+      </div>
+      <div class="spotlights spotlights-grid">
+       <h3 class="title">
+        Flagstaff Spotlight
+       </h3>
+       <div class="row">
+        <div class="col-xs-6 col-md-3">
+         <div class="spotlight">
+          <div class="title">
+           <a href="/Hotels/Flagstaff-AZ/Spotlight">
+            Flagstaff City Profile »
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ/Convention-Visitor-Bureau" title="Convention &amp; Visitor Bureaus">
+             Convention &amp; Visitor Bureaus
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-xs-6 col-md-3">
+         <div class="spotlight">
+          <div class="title">
+           <a href="/Hotels/Flagstaff-AZ">
+            Find Flagstaff Hotels »
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ,Deluxe" title="Deluxe Flagstaff Hotels">
+             Deluxe Flagstaff Hotels
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ,First-Class" title="First Class Flagstaff Hotels">
+             First Class Flagstaff Hotels
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ,Tourist-Class" title="Tourist Class Flagstaff Hotels">
+             Tourist Class Flagstaff Hotels
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-xs-6 col-md-3">
+         <div class="spotlight">
+          <div class="title">
+           <a href="/Hotels/Airports/Flagstaff-AZ">
+            Flagstaff Airport Hotels »
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Flagstaff-Pulliam" title="Flagstaff Pulliam">
+             Flagstaff Pulliam
+             <br/>
+             (5 miles southwest)
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Grand-Canyon-AZ/Hotels-Near-Grand-Canyon" title="Grand Canyon">
+             Grand Canyon
+             <br/>
+             (81 miles northwest)
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Grand-Canyon-AZ/Hotels-Near-North-Rim" title="North Rim">
+             North Rim
+             <br/>
+             (91 miles northwest)
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-xs-6 col-md-3">
+         <div class="spotlight">
+          <div class="title">
+           <a href="/Hotels/Flagstaff-AZ/Attractions">
+            Hotels Near Popular Flagstaff Attractions »
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Museum-of-Northern-Arizona-p4587643" title="Museum of Northern Arizona">
+             Museum of Northern Arizona
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Lowell-Observatory-p4587562" title="Lowell Observatory">
+             Lowell Observatory
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Riordan-Mansion-State-Historic-Park-p4587633" title="Riordan Mansion State Historic Park">
+             Riordan Mansion State Historic Park
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Winslow-AZ/Hotels-Near-The-Meteor-Crater-p4587213" title="The Meteor Crater">
+             The Meteor Crater
+            </a>
+           </li>
+           <li>
+            <a href="/Hotels/Flagstaff-AZ/Hotels-Near-Sunset-Crater-National-Monument-p4587448" title="Sunset Crater National Monument">
+             Sunset Crater National Monument
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <br/>
+     </div>
+    </div>
+   </div>
+   <div class="container-fluid bg-footer">
+    <footer class="container">
+     <div class="row">
+      <div class="col-sm-9">
+       <div class="row travel-weekly">
+        <div class="col-xs-12">
+         <a class="logo" href="/" title="Travel Weekly">
+          <img alt="Travel Weekly" src="https://ik.imgkit.net/3vlqs5axxjf/TW/ik-seo/uploadedImages/Site_Management/TRAVELWEEKLYLogo_White/Travel-Weekly.svg " style="width:100%; height:50px;" title="Travel Weekly"/>
+         </a>
+         <div class="social">
+          <a aria-label="Facebook" href="https://www.facebook.com/pages/Travel-Weekly/174780042557605" rel="noopener" target="_blank" title="Travel Weekly on Facebook">
+           <span aria-hidden="true" class="icon icon-facebook-o">
+           </span>
+          </a>
+          <a aria-label="Twitter" href="https://twitter.com/TravelWeeklyUS" rel="noopener" target="_blank" title="Travel Weekly on Twitter">
+           <span aria-hidden="true" class="icon icon-twitter">
+           </span>
+          </a>
+          <a aria-label="LinkedIn" href="https://www.linkedin.com/company/travel-weekly" rel="noopener" target="_blank" title="Travel Weekly on LinkedIn">
+           <span aria-hidden="true" class="icon icon-linked-in">
+           </span>
+          </a>
+          <a aria-label="Instagram" href="https://www.instagram.com/travelweeklyus/" rel="noopener" target="_blank" title="Travel Weekly on Instagram">
+           <span aria-hidden="true" class="icon icon-instagram">
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="hidden-xs col-sm-4 col-1">
+         <ul>
+          <li>
+           <a href="/">
+            Home
+           </a>
+          </li>
+          <li>
+           <a href="/Travel-News">
+            News by Topic
+           </a>
+          </li>
+          <li>
+           <a href="/Cruise">
+            Cruise Search
+           </a>
+          </li>
+          <li>
+           <a href="/Hotels">
+            Hotel Search
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="hidden-xs col-sm-4 col-2">
+         <ul>
+          <li>
+           <a href="/About-Us">
+            About Us
+           </a>
+          </li>
+          <li>
+           <a href="/Contact-Us">
+            Contact Us
+           </a>
+          </li>
+          <li>
+           <a href="/Media-Kit">
+            Advertise
+           </a>
+          </li>
+          <li>
+           <a href="http://www.travelweekly.com/adupload.aspx" rel="noopener" target="_blank">
+            Upload Print Ad Materials
+           </a>
+          </li>
+          <li>
+           <a href="http://www.ntg-digital.com/Travel-Weekly/Digital-Display" rel="noopener" target="_blank">
+            Digital Ad Specifications
+           </a>
+          </li>
+          <li>
+           <a href="/Hotels/Contact-Us">
+            Hotel Search Questions
+           </a>
+          </li>
+          <li>
+           <a href="/Cruise/Contact-Us">
+            Cruise Search Questions
+           </a>
+          </li>
+          <li>
+           <a href="https://ntg.dragonforms.com/loading.do?omedasite=TRWnew" rel="noopener" target="_blank">
+            Subscribe to Print
+           </a>
+          </li>
+          <li>
+           <a href="/Newsletters" rel="noopener" target="_blank">
+            Subscribe to eNewsletters
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="hidden-xs col-sm-4 col-3">
+         <ul>
+          <li>
+           <a href="http://adhost1.ntmllc.com/twxads/T&amp;C.htm" rel="noopener" target="_blank">
+            Terms
+           </a>
+          </li>
+          <li>
+           <a href="http://adhost1.ntmllc.com/twxads/privacy_0404.htm" rel="noopener" target="_blank">
+            Privacy Policy
+           </a>
+          </li>
+          <li>
+           <a href="https://info.wrightsmedia.com/reuse-content-request" rel="noopener" target="_blank">
+            Purchase Reprints
+           </a>
+          </li>
+          <li>
+           <a href="/Commenting-Guidelines/" rel="noopener" target="_blank">
+            Comment Guidelines
+           </a>
+          </li>
+          <li>
+           <a href="/Sitemap">
+            Sitemap
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="visible-xs col-xs-6">
+         <ul>
+          <li>
+           <a href="/">
+            Home
+           </a>
+          </li>
+          <li>
+           <a href="/Travel-News">
+            News by Topic
+           </a>
+          </li>
+          <li>
+           <a href="/Cruise">
+            Cruise Search
+           </a>
+          </li>
+          <li>
+           <a href="/Hotels">
+            Hotel Search
+           </a>
+          </li>
+          <li>
+           <a href="/About-Us">
+            About Us
+           </a>
+          </li>
+          <li>
+           <a href="/Contact-Us">
+            Contact Us
+           </a>
+          </li>
+          <li>
+           <a href="/Media-Kit">
+            Advertise
+           </a>
+          </li>
+          <li>
+           <a href="http://www.travelweekly.com/adupload.aspx" rel="noopener" target="_blank">
+            Upload Print Ad Materials
+           </a>
+          </li>
+          <li>
+           <a href="http://www.ntg-digital.com/Travel-Weekly/Digital-Display" rel="noopener" target="_blank">
+            Digital Ad Specifications
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="visible-xs col-xs-6">
+         <ul>
+          <li>
+           <a href="/Hotels/Contact-Us">
+            Hotel Search Questions
+           </a>
+          </li>
+          <li>
+           <a href="/Cruise/Contact-Us">
+            Cruise Search Questions
+           </a>
+          </li>
+          <li>
+           <a href="https://ntg.dragonforms.com/loading.do?omedasite=TRWnew" rel="noopener" target="_blank">
+            Subscribe to Print
+           </a>
+          </li>
+          <li>
+           <a href="/Newsletters" rel="noopener" target="_blank">
+            Subscribe to eNewsletters
+           </a>
+          </li>
+          <li>
+           <a href="http://adhost1.ntmllc.com/twxads/T&amp;C.htm" rel="noopener" target="_blank">
+            Terms
+           </a>
+          </li>
+          <li>
+           <a href="http://adhost1.ntmllc.com/twxads/privacy_0404.htm" rel="noopener" target="_blank">
+            Privacy Policy
+           </a>
+          </li>
+          <li>
+           <a href="https://info.wrightsmedia.com/reuse-content-request" rel="noopener" target="_blank">
+            Purchase Reprints
+           </a>
+          </li>
+          <li>
+           <a href="/Commenting-Guidelines/" rel="noopener" target="_blank">
+            Comment Guidelines
+           </a>
+          </li>
+          <li>
+           <a href="/Sitemap">
+            Sitemap
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <svg style="display: none;" xmlns="http://www.w3.org/2000/svg">
+       <g id="nstg-logo">
+        <path class="cls-1" d="M189.49,201.11h-6.63v19.54h-2.16v-19.54h-6.63v-2.03h15.41v2.03Z">
+        </path>
+        <path class="cls-1" d="M205.72,212.02h-6.04v8.63h-2.16v-21.57h8.63c3.57,0,6.47,2.9,6.47,6.47,0,2.93-1.97,5.42-4.65,6.19l5.27,8.91h-2.47l-5.05-8.63ZM199.68,209.99h6.47c2.37,0,4.31-2,4.31-4.44s-1.94-4.44-4.31-4.44h-6.47v8.87Z">
+        </path>
+        <path class="cls-1" d="M234.84,215.35h-10.23l-2,5.3h-2.28l8.29-21.57h2.22l8.29,21.57h-2.28l-2-5.3ZM234.07,213.32l-4.35-11.56-4.35,11.56h8.69Z">
+        </path>
+        <path class="cls-1" d="M243.08,199.08h2.34l6.72,18.71,6.72-18.71h2.34l-7.95,21.57h-2.22l-7.95-21.57Z">
+        </path>
+        <path class="cls-1" d="M281.74,218.62v2.03h-12.63v-21.57h12.48v2.03h-10.32v7.64h9.55v2.03h-9.55v7.83h10.48Z">
+        </path>
+        <path class="cls-1" d="M302.35,218.62v2.03h-12.02v-21.57h2.16v19.54h9.86Z">
+        </path>
+        <path class="cls-1" d="M345.47,211.13c0,5.15-3.91,9.52-10.54,9.52s-11.31-4.99-11.31-11.16,4.68-11.16,11.31-11.16c4.04,0,7.55,2.13,9.34,5.3l-1.91,1.11c-1.33-2.59-4.19-4.31-7.43-4.31-5.45,0-9.15,4.04-9.15,9.06s3.7,9.06,9.15,9.06c5.02,0,7.92-2.9,8.32-6.5h-8.57v-2.03h10.79v1.11Z">
+        </path>
+        <path class="cls-1" d="M362.61,212.02h-6.04v8.63h-2.16v-21.57h8.63c3.57,0,6.47,2.9,6.47,6.47,0,2.93-1.97,5.42-4.65,6.19l5.27,8.91h-2.47l-5.05-8.63ZM356.57,209.99h6.47c2.37,0,4.31-2,4.31-4.44s-1.94-4.44-4.31-4.44h-6.47v8.87Z">
+        </path>
+        <path class="cls-1" d="M377.09,209.5c0-6.16,4.87-11.16,11.16-11.16s11.16,4.99,11.16,11.16-4.87,11.16-11.16,11.16-11.16-4.99-11.16-11.16ZM397.24,209.5c0-5.02-3.88-9.06-9-9.06s-9,4.04-9,9.06,3.88,9.06,9,9.06,9-4.04,9-9.06Z">
+        </path>
+        <path class="cls-1" d="M408.21,212.95v-14.24h2.16v14.24c0,3.42,2.13,5.61,5.86,5.61s5.85-2.19,5.85-5.61v-14.24h2.16v14.24c0,4.71-3.3,7.7-8.01,7.7s-8.01-2.99-8.01-7.7Z">
+        </path>
+        <path class="cls-1" d="M448.84,205.86c0,3.85-2.9,6.78-6.78,6.78h-5.55v8.01h-2.16v-21.57h7.7c3.88,0,6.78,2.9,6.78,6.78ZM446.69,205.86c0-2.77-1.94-4.75-4.62-4.75h-5.55v9.49h5.55c2.68,0,4.62-2,4.62-4.75Z">
+        </path>
+        <g>
+         <path class="cls-1" d="M124.4,105.98v68.24h-8.77l-32.17-46.31v46.31h-11.21v-68.24h8.77l32.17,46.31v-46.31h11.21Z">
+         </path>
+         <path class="cls-1" d="M129,149.85c0-14.53,11.5-25.64,25.74-25.64s25.74,11.11,25.74,25.64-11.41,25.64-25.74,25.64-25.74-11.21-25.74-25.64ZM169.94,149.85c0-8.87-6.63-15.4-15.21-15.4s-15.21,6.53-15.21,15.4,6.63,15.4,15.21,15.4,15.21-6.53,15.21-15.4Z">
+         </path>
+         <path class="cls-1" d="M210.08,124.6v11.41c-6.92-.49-15.01,2.73-15.01,13.65v24.57h-10.53v-48.74h10.53v8.19c2.92-6.63,8.87-9.07,15.01-9.07Z">
+         </path>
+         <path class="cls-1" d="M232.98,135.62v23.4c0,6.24,4.09,6.14,12.09,5.75v9.46c-16.18,1.95-22.62-2.53-22.62-15.21v-23.4h-8.97v-10.14h8.97v-10.53l10.53-3.12v13.65h12.09v10.14h-12.09Z">
+         </path>
+         <path class="cls-1" d="M296.97,144.29v29.93h-10.53v-28.86c0-7.41-4.29-11.31-10.92-11.31s-12.38,4.09-12.38,14.04v26.13h-10.53v-68.24h10.53v25.74c3.22-5.07,8.48-7.51,15.11-7.51,10.92,0,18.72,7.41,18.72,20.08Z">
+         </path>
+         <path class="cls-1" d="M339.44,160.47c0,9.75-8.48,15.01-19.01,15.01-9.75,0-16.77-4.39-19.89-11.41l9.07-5.26c1.56,4.39,5.46,7.02,10.82,7.02,4.68,0,8.29-1.56,8.29-5.46,0-8.68-26.22-3.8-26.22-21.25,0-9.16,7.9-14.92,17.84-14.92,7.99,0,14.62,3.7,18.04,10.14l-8.87,4.97c-1.75-3.8-5.17-5.56-9.16-5.56s-7.12,1.66-7.12,5.17c0,8.87,26.22,3.51,26.22,21.54Z">
+         </path>
+         <path class="cls-1" d="M360.66,135.62v23.4c0,6.24,4.09,6.14,12.09,5.75v9.46c-16.18,1.95-22.62-2.53-22.62-15.21v-23.4h-8.97v-10.14h8.97v-10.53l10.53-3.12v13.65h12.09v10.14h-12.09Z">
+         </path>
+         <path class="cls-1" d="M428.17,125.48v48.74h-10.53v-7.02c-3.7,5.17-9.46,8.29-17.06,8.29-13.26,0-24.27-11.21-24.27-25.64s11.02-25.64,24.27-25.64c7.6,0,13.36,3.12,17.06,8.19v-6.92h10.53ZM417.64,149.85c0-9.07-6.63-15.6-15.4-15.6s-15.4,6.53-15.4,15.6,6.63,15.6,15.4,15.6,15.4-6.53,15.4-15.6Z">
+         </path>
+         <path class="cls-1" d="M463.04,124.6v11.41c-6.92-.49-15.01,2.73-15.01,13.65v24.57h-10.53v-48.74h10.53v8.19c2.92-6.63,8.87-9.07,15.01-9.07Z">
+         </path>
+         <g>
+          <circle class="cls-1" cx="524.17" cy="105.98" r="3.59">
+          </circle>
+          <circle class="cls-1" cx="491.88" cy="62.94" r="3.59">
+          </circle>
+          <path class="cls-1" d="M516.72,105.56l-17.38-2.55c-.11-.03-.21-.11-.25-.24s-.03-.27.04-.37l7.05-10.18s.06-.1.06-.22c0-.04,0-.08-.02-.12,0-.03-.03-.07-.04-.09-.06-.1-.18-.17-.31-.16-.14,0-.24.08-.26.09l-9.44,7.02c-.09.08-.22.09-.32.04-.11-.05-.19-.16-.21-.29l-3.4-28.05c-.03-.19-.17-.32-.34-.32s-.31.14-.34.32l-3.42,28.05c-.02.13-.1.24-.2.29-.11.05-.23.04-.33-.04l-9.51-7.04c-.14-.11-.36-.07-.48.06-.11.13-.1.33,0,.49l7.04,10.15c.06.11.07.25.03.37-.04.12-.1.21-.25.23l-17.38,2.53c-.16.08-.27.24-.27.43s.11.34.27.39l17.38,2.61c.11.03.22.11.26.24s.03.27-.04.37l-7.03,10.16c-.09.16-.12.33,0,.47s.35.18.49.07l9.5-7.05c.1-.08.23-.09.34-.03.11.06.19.17.2.31l3.4,27.96c0,.22.15.39.34.39s.34-.18.34-.39l3.44-27.95c0-.14.09-.26.19-.32.11-.06.24-.04.34.04l9.38,7s.07.04.11.06c.02,0,.04.01.05.02.03,0,.06.01.09.02h.03c.21,0,.37-.17.37-.38,0-.07-.02-.14-.06-.21l-7.05-10.17c-.06-.11-.07-.25-.03-.37s.14-.22.25-.24l17.38-2.61c.16-.04.27-.2.27-.39s-.11-.35-.27-.39Z">
+          </path>
+          <circle class="cls-1" cx="491.89" cy="149.02" r="3.59">
+          </circle>
+          <circle class="cls-1" cx="459.6" cy="105.98" r="3.59">
+          </circle>
+         </g>
+        </g>
+       </g>
+      </svg>
+      <div class="col-sm-3">
+       <div class="northstar">
+        <a href="https://www.northstartravelgroup.com" rel="noopener" target="_blank" title="Northstar Travel Group">
+         <img alt="Northstar Travel Group" src="https://ik.imgkit.net/3vlqs5axxjf/CORP/ik-seo/images/logos/NorthstarLogo_White_RGB/Northstar-Travel-Group.svg?tr=w-225%2Cfo-auto" title="Northstar Travel Group" width="100%">
+         </img>
+        </a>
+        <ul class="row">
+         <li class="col-xs-12 visible-xs all text-nowrap">
+          <a href="https://www.northstartravelgroup.com" rel="noopener" target="_blank" title="All NorthStar Brands">
+           All NorthStar Brands
+           <span class="arrow">
+            &gt;
+           </span>
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="http://www.travelweekly-asia.com" rel="noopener" target="_blank">
+           Travel Weekly Asia
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="http://www.travelagewest.com" rel="noopener" target="_blank">
+           TravelAge West
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.travelpulse.com/" rel="noopener" target="_blank">
+           TravelPulse
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://ca.travelpulse.com/" rel="noopener" target="_blank">
+           TravelPulse Canada
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.travelpulsequebec.ca/" rel="noopener" target="_blank">
+           TravelPulse Quebec
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.northstartravelgroup.com/Audiences/Meetings-Incentives" rel="noopener" target="_blank">
+           Meetings &amp; Incentives
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.northstartravelgroup.com/Audiences/Travel-Technology" rel="noopener" target="_blank">
+           Travel Technology
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.northstartravelgroup.com/Audiences/Corporate-Travel" rel="noopener" target="_blank">
+           Corporate Travel
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.northstartravelgroup.com/Audiences/Hotel-Investment" rel="noopener" target="_blank">
+           Hotel Investment
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.northstartravelgroup.com/Solutions/Data" rel="noopener" target="_blank">
+           Data Products
+          </a>
+         </li>
+         <li class="col-xs-6 col-sm-12">
+          <a href="https://www.travelpulse.com/articles/aah/" rel="noopener" target="_blank">
+           AGENTatHOME
+          </a>
+         </li>
+         <li class="col-xs-12 hidden-xs all text-nowrap">
+          <a href="https://www.northstartravelgroup.com" rel="noopener" target="_blank" title="All NorthStar Brands">
+           All NorthStar Brands
+           <span class="arrow">
+            &gt;
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </footer>
+    <div class="copyright">
+     <div class="container">
+      <div class="row">
+       <div class="col-xs-12">
+        <div class="text">
+         <p>
+          Copyright © 2025 Northstar Travel Media, LLC. All Rights Reserved. 301 Route 17 N, Suite 1150, Rutherford, NJ
+07070 USA Telephone: (201) 902-2000
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="filters-blocker" style="display:none">
+   </div>
+   <div style="display: none">
+    <a href="/JDS-Travel-News" rel="nofollow">
+     JDS Travel News
+    </a>
+    <a href="/JDS-Viewpoints" rel="nofollow">
+     JDS Viewpoints
+    </a>
+    <a href="/JDS-Africa-Middle-East" rel="nofollow">
+     JDS Africa/MI
+    </a>
+   </div>
+   <div class="col-xs-12 hidden container-p">
+   </div>
+  </div>
+  <link defer="true" href="/dist/css/style_ft.css?20241204" rel="stylesheet"/>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyBxoo59pm9S03Tga3uHWhSow97FzKOhrbU">
+  </script>
+  <script defer="" src="/dist/js/dir.min.js?20241204">
+  </script>
+  <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js">
+  </script>
+  <script defer="" src="/js/interactiveMap.js?20241204">
+  </script>
+  <script defer="" src="/js/map_hotel.js?20241204">
+  </script>
+  <script defer="" src="/js/dynares.js?20241204">
+  </script>
+  <script>
+   function initBase(){basepin=new _pinFromDet(500463,'HOT',35.192787,-111.624428,'Days Hotel by Wyndham Flagstaff','2200 E Butler Ave, Flagstaff, AZ');AddBaseMapPin(basepin);}
+function initpins(){pins = new Array();initBase();}
+function loadmap(){map.setZoom(baseZoom);map.setCenter(new google.maps.LatLng(baseMapLat,baseMapLong)); }
+  </script>
+  <script>
+   window.addEventListener('DOMContentLoaded', function() {(function($) {
+baseZoom=14;
+baseKey=500463;
+baseTyp='HOT';
+baseLat=35.192787;
+baseLong=-111.624428;
+baseMapLat=35.192787;
+baseMapLong=-111.624428;
+delaymapload=true;
+})(jQuery);});
+  </script>
+  <div class="aspNetHidden">
+   <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="9B0F9472">
+    <input id="__VIEWSTATEENCRYPTED" name="__VIEWSTATEENCRYPTED" type="hidden" value="">
+    </input>
+   </input>
+  </div>
+ </form>
+</body>
