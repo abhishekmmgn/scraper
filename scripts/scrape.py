@@ -1,86 +1,56 @@
-import aiohttp
-import requests
-import asyncio
 import csv
-import random
 from bs4 import BeautifulSoup
-from aiohttp import ClientTimeout
-from tenacity import retry, stop_after_attempt, wait_exponential
+import aiohttp
+import asyncio
+import time
+import os
+import requests
 
-# List of User Agents (rotating to avoid blocks)
-USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
-]
-
-# List of free proxies (add more for better performance)
-PROXIES = [
-    "http://8.8.8.8:8080",
-    "http://1.1.1.1:3128",
-]
+SCRAPER_API_KEY = "4f30b785a3333016997762b6f7f314c4"
 
 
-# Function to get random headers
-def get_random_headers():
-    return {"User-Agent": random.choice(USER_AGENTS)}
+# Log failed URLs for retry
+def log_failed_url(url):
+    with open("errors.txt", "a") as f:
+        f.write(url + "\n")
 
 
-# Function to get a random proxy
-def get_random_proxy():
-    proxy = random.choice(PROXIES)
-    return {"http": proxy, "https": proxy}
+NUM_RETRIES = 3
+NUM_THREADS = 5
+
+INPUT_FILE = "batches/1.txt"
+OUTPUT_FILE = "output.csv"
 
 
-def scrape_with_fallback(url):
-    try:
-        response = requests.get(url, headers=get_random_headers(), timeout=10)
-        response.raise_for_status()
-        return response.content
-    except requests.exceptions.RequestException:
-        print(f"Using Google Cache for {url}")
-        cache_url = f"https://webcache.googleusercontent.com/search?q=cache:{url}&strip=1&vwsrc=1"
+def fetch(url):
+    """Fetch the webpage content from ScraperAPI."""
+    payload = {"api_key": SCRAPER_API_KEY, "url": url}
+    # timeout = aiohttp.ClientTimeout(total=70)
+
+    for x in range(NUM_RETRIES):
         try:
-            response = requests.get(cache_url, headers=get_random_headers(), timeout=10)
-            response.raise_for_status()
-            return response.content
-        except:
-            print(f"Failed to get cached version: {url}")
-            return None  # Mark failure explicitly
+            response = requests.get("http://api.scraperapi.com/", params=payload)
+            if response.status_code == 200:
+                return response.text
+            else:
+                print(
+                    f"{x + 1} request failed for {url} with status code {response.status_code}"
+                )
+        except requests.exceptions.ClientError as e:
+            print(f"{x + 1} request failed for {url} with ClientError: {e}")
+        except Exception as e:
+            print(f"{x + 1} request failed for {url} --> {e}")
 
-
-# Exponential backoff for retrying failed requests
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
-async def fetch(session, url):
-    try:
-        async with session.get(
-            url, headers=get_random_headers(), timeout=ClientTimeout(total=10)
-        ) as response:
-            response.raise_for_status()
-            return await response.text()
-    except Exception as e:
-        print(f"Primary request failed for {url}, trying Google Cache... Error: {e}")
-        return await fetch_google_cache(session, url)
-
-
-# Function to fetch Google Cache fallback
-async def fetch_google_cache(session, url):
-    cache_url = (
-        f"https://webcache.googleusercontent.com/search?q=cache:{url}&strip=1&vwsrc=1"
-    )
-    try:
-        async with session.get(
-            cache_url, headers=get_random_headers(), timeout=ClientTimeout(total=10)
-        ) as response:
-            response.raise_for_status()
-            return await response.text()
-    except Exception as e:
-        print(f"Google Cache failed for {url}: {e}")
-        return None  # Return None if both fail
+    print(f"\nAll retries failed for {url}\n")
+    return None
 
 
 def scrape_hotel_data(html, url):
+    if not html:  # Check if the response is None
+        print(f"Error: No HTML received for {url}")
+        log_failed_url(url)
+        return None
+
     try:
         soup = BeautifulSoup(html, "html.parser")
 
@@ -233,21 +203,16 @@ def scrape_hotel_data(html, url):
 
     except Exception as e:
         print(f"Error parsing {url}: {e}")
-        return [url] + ["ERROR"] * 7  # Return placeholders on failure
+        log_failed_url(url)
+        return None
 
 
-# Asynchronous scraping function
-async def scrape_hotels(urls, output_file):
-    tasks = []
-    async with aiohttp.ClientSession() as session:
-        for url in urls:
-            tasks.append(fetch(session, url))
-
-        responses = await asyncio.gather(*tasks)
-
-        # Process responses
-        with open(output_file, mode="w", newline="", encoding="utf-8") as file:
-            writer = csv.writer(file)
+def scrape_hotels(urls):
+    print("---- Got the responses ----")
+    with open(OUTPUT_FILE, mode="a", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+        file_exists = os.path.isfile(OUTPUT_FILE)
+        if not file_exists or os.stat(OUTPUT_FILE).st_size == 0:
             writer.writerow(
                 [
                     "Link",
@@ -271,27 +236,35 @@ async def scrape_hotels(urls, output_file):
                 ]
             )
 
-            for url, html in zip(urls, responses):
-                if html:
-                    data = scrape_hotel_data(html, url)
-                    writer.writerow(data)
+        for url in urls:
+            html = fetch(url)
+            data = scrape_hotel_data(html, url)
+            if data is not None:
+                writer.writerow(data)
+            else:
+                print(f"Failed to retrieve or parse data for {url}")
 
 
 # Main function to run the async scraper
 def main():
-    input_file = "batches/batch_1.txt"
-    output_file = "/output_csv/hotel_data_1.csv"
+    try:
+        with open(INPUT_FILE, "r") as file:
+            urls = [line.strip() for line in file.readlines() if line.strip()]
 
-    # Read URLs from file
-    with open(input_file, "r") as file:
-        urls = [line.strip() for line in file.readlines() if line.strip()]
+    except Exception as e:
+        print(f"Scraping {len(urls)} URLs... {e}")
 
-    print(f"Scraping {len(urls)} URLs...")
+    if not urls:
+        print("No URLs found in the input file.")
+        return
 
-    # Run the async scraper
-    asyncio.run(scrape_hotels(urls, output_file))
+    start_time = time.time()
 
-    print(f"Scraping completed! Data saved to {output_file}")
+    scrape_hotels(urls)
+
+    end_time = time.time()
+
+    print(f"Scraping completed in {end_time - start_time} seconds.")
 
 
 # Run the script
