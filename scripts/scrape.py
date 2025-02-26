@@ -7,19 +7,16 @@ import os
 import requests
 
 SCRAPER_API_KEY = "4f30b785a3333016997762b6f7f314c4"
+NUM_RETRIES = 3
+NUM_THREADS = 5
+INPUT_FILE = "batches/1.txt"
+OUTPUT_FILE = "output.csv"
 
 
 # Log failed URLs for retry
 def log_failed_url(url):
     with open("errors.txt", "a") as f:
         f.write(url + "\n")
-
-
-NUM_RETRIES = 3
-NUM_THREADS = 5
-
-INPUT_FILE = "batches/1.txt"
-OUTPUT_FILE = "output.csv"
 
 
 def fetch(url):
