@@ -8,8 +8,8 @@ import requests
 import concurrent.futures
 import threading
 
-SCRAPER_API_KEY_1 = ""
-SCRAPER_API_KEY_2 = ""
+SCRAPER_API_KEY_1 = "1be97fc0462e779b692f969205135cd5"
+SCRAPER_API_KEY_2 = "1be97fc0462e779b692f969205135cd5"
 NUM_RETRIES = 3
 NUM_THREADS = 5
 INPUT_FILE = "batches/2.txt"
