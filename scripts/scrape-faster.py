@@ -6,12 +6,18 @@ import time
 import os
 import requests
 import concurrent.futures
+import threading
 
-SCRAPER_API_KEY = "c0572e2f46858624ca005b582ccfc0e9"
+SCRAPER_API_KEY_1 = "c0572e2f46858624ca005b582ccfc0e9"
+SCRAPER_API_KEY_2 = "1be97fc0462e779b692f969205135cd5"
 NUM_RETRIES = 3
 NUM_THREADS = 5
 INPUT_FILE = "batches/1.txt"
 OUTPUT_FILE = "output.csv"
+
+COUNT = 0
+
+lock = threading.Lock()
 
 
 # Log failed URLs for retry
@@ -20,15 +26,27 @@ def log_failed_url(url):
         f.write(url + "\n")
 
 
+def get_api_key(count):
+    if count > 5000:
+        return SCRAPER_API_KEY_2
+    else:
+        return SCRAPER_API_KEY_1
+
+
 def fetch(url):
-    """Fetch the webpage content from ScraperAPI."""
-    payload = {"api_key": SCRAPER_API_KEY, "url": url}
+    global COUNT
+
+    print(COUNT)
+    api_key = get_api_key(COUNT)
+    payload = {"api_key": api_key, "url": url}
     # timeout = aiohttp.ClientTimeout(total=70)
 
     for x in range(NUM_RETRIES):
         try:
             response = requests.get("http://api.scraperapi.com/", params=payload)
             if response.status_code == 200:
+                with lock:
+                    COUNT += 1
                 return response.text
             else:
                 print(
